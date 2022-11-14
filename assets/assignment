@@ -1,0 +1,17 @@
+
+JSON Assignment
+50 points - 25 points each
+In this project you will need to read from two JSON sources. One from the web and one from
+within the project (located in your assets folder). Both must have multiple records.
+You have the option of creating two separate apps or one app with two different pages. You can
+use the ListTile only once.
+You can set up the app with the navigation of your choice.
+The app(s) must contain appropriate styling and be suitable to show a potential employer.
+You can use the following page if you wish:
+https://flutter.locusnoesis.com/spellsinfo.php
+Other useful sites:
+https://www.kaggle.com/
+https://www.convertcsv.com/csv-to-json.htm
+(Note the CSV to JSON array is the easiest)
+https://pub.dev/
+https://pub.dev/packages/http
