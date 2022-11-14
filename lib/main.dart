@@ -72,7 +72,7 @@ class _MyAppState extends State<MyApp> {
   Colors.grey[200],
   child: Padding(
   padding: const EdgeInsets.all(10),
-  child: Text('City: '+ cities[index]),
+  child: Text('City: '),
 
   ),
 
